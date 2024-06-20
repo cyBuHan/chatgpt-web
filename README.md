@@ -23,8 +23,7 @@ Pure Javascript ChatGPT demo based on OpenAI API
 ![示例](https://raw.githubusercontent.com/xqdoo00o/chatgpt-web/main/example.png)
 
 ## Demo
-
-[在线预览](https://xqdoo00o.github.io/chatgpt-web/) （使用需配置OpenAI接口和API密钥）
+[在线预览](https://cyBuHan.github.io/chatgpt-web/) （使用需配H置OpenAI接口和API密钥）
 
 ## 使用方法
 ### **注意：部署反代接口请注意OpenAI的[支持地区](https://platform.openai.com/docs/supported-countries)，部署在不支持地区的服务器可能导致封号！最好配置https，公网以http方式明文传输API key非常不安全！**
